@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondoajustes"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="vertical"
+        android:layout_marginTop="80dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp">
+        
+         <Button
+            android:id="@+id/btn_nivel"
+            
+            style="@style/CustomStyleButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_gravity="center"
+             android:textColor="#FFFFFF"
+            android:text="@string/niveljuego" >
+        </Button>
+        
+
+        <Button
+            android:id="@+id/btn_borrarbd"
+            style="@style/CustomStyleButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:textColor="#FFFFFF"
+            android:layout_gravity="center"
+             android:text="@string/borrarbasedatos" >
+        </Button>
+        
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:gravity="end">
+
+
+
+        <Button
+            android:id="@+id/about_like_mail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:drawableLeft="@drawable/button_email"
+            android:textColor="#FFFFFF"
+            android:text="@string/about_comments_like_email"
+            style="@style/CustomStyleButton"/>
+
+        <Button
+            android:id="@+id/about_like_market"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:drawableLeft="@drawable/button_play"
+            android:textColor="#FFFFFF"
+            android:text="@string/about_comments_like_market"
+            style="@style/CustomStyleButton"/>
+
+
+        <Button
+            android:id="@+id/about_like_compartir"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:drawableLeft="@drawable/button_twitter"
+            android:textColor="#FFFFFF"
+            android:text="@string/about_comments_like_twitter"
+            style="@style/CustomStyleButton"/>
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

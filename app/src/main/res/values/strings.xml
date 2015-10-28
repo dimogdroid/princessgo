@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Princess Go!</string>
+    <string name="nombre">Enter your name</string>
+
+    <string-array name="type">
+        <item>New Game</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </string-array>
+    
+    <string-array name="cartas">
+        <item>Frozen</item>
+        <item>Animals</item>
+    </string-array>
+    
+     <string-array name="nivel">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Difficult</item>
+    </string-array>
+
+    <string name="niveljuego">Game level</string>
+    <string name="tipocartas">Image of Letters</string>
+    <string name="borrarbasedatos">Delete local data</string>
+    <string name="eliminarpuntuacion">Clear Rating</string>
+    <string name="preguntaeliminarfacil">Remove your table easy level scores ?</string>
+    <string name="preguntaeliminarmedio">Remove your table medium level scores ?</string>
+    <string name="preguntaeliminardificil">Remove your table difficult level scores ?</string>
+    <string name="acercade">About...</string>
+    <string name="nuevapartida">PLAY!!</string>
+    <string name="puntuacion">RATING</string>
+    <string name="cofiguracion">SETUP</string>
+    <string name="comenzar">Start</string>
+    <string name="cancelar">Cancel</string>
+    <string name="facil">Easy</string>
+    <string name="medio">Medium</string>
+    <string name="dificil">Difficult</string>
+    <string name="nivel">Level:</string>
+    <string name="puntuacionglobal">Overall Score</string>
+    <string name="puntuacionlocal">Local Score</string>
+    <string name="vermas">See more</string>
+    <string name="si">Yes</string>
+    
+    <string name="sindatos">No data.</string>
+    
+    <string name="frozen">Frozen</string>
+    <string name="animales">Animals</string>
+    <string name="bob">Bob</string>
+    
+    
+    <string name="introducenombre">Enter your name:</string>
+    <string name="about_comments_like_email">Send us an email</string>
+    <string name="about_comments_like_market">Value us on Google Play </string>
+    <string name="about_comments_like_facebook">Comparte por Facebook</string>
+    <string name="about_comments_like_twitter"> Share on Twitter</string>
+    <string name="about_mail_subject">A Good Application</string>
+    <string name="about_mail_body"> See this App, seems interesting.</string>
+   <string name="about_facebook_url">http://dimogaru.hol.es/</string>
+    <string name="about_facebook_title">Princess Go!</string>
+    <string name="about_twitter_msg">Know her application android #PrincessGo!? .</string>
+    <string name="about_problem_mail">DimogDroid@gmail.com</string>
+    <string name="about_problem_subject">Princess Go!.</string>
+    
+    
+
+</resources>

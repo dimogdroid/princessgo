@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Princess Go!</string>
+    <string name="nombre">Geben Sie den Namen</string>
+
+    <string-array name="type">
+        <item>Neues Spiel</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </string-array>
+    
+    <string-array name="cartas">
+        <item>Frozen</item>
+        <item>Tiere</item>
+    </string-array>
+    
+     <string-array name="nivel">
+        <item>Leicht</item>
+        <item>Medium</item>
+        <item>Schwierig</item>
+    </string-array>
+
+    <string name="niveljuego">Spielniveau</string>
+    <string name="tipocartas">Briefe Zeichnungen</string>
+    <string name="borrarbasedatos">Klar Lokale Daten</string>
+    <string name="eliminarpuntuacion">Clear Bewertung</string>
+    <string name="preguntaeliminarfacil">Löschen Tabelle Niveau Leicht?</string>
+    <string name="preguntaeliminarmedio">Löschen Tabelle Niveau Medium?</string>
+    <string name="preguntaeliminardificil">Löschen Tabelle Niveau Schwierig?</string>
+    <string name="acercade">worüber</string>
+    <string name="nuevapartida">SPIELEN !!</string>
+    <string name="puntuacion">PUNCTUATION</string>
+    <string name="cofiguracion">PASSUNG</string>
+    <string name="comenzar">Startet</string>
+    <string name="cancelar">Stornieren</string>
+    <string name="facil">Leicht</string>
+    <string name="medio">Medium</string>
+    <string name="dificil">Schwierig</string>
+    <string name="nivel">Niveau:</string>
+    <string name="puntuacionglobal">GesamtPunktwertung</string>
+    <string name="puntuacionlocal">Lokal Punktwertung</string>
+    <string name="vermas">Mehr</string>
+    <string name="si">Ja</string>
+    
+    <string name="sindatos">Keine Daten.</string>
+    
+    <string name="frozen">Frozen</string>
+    <string name="animales">Tiere</string>
+    <string name="bob">Bob</string>
+    
+    
+    <string name="introducenombre">Geben Sie Ihren Namen:</string>
+    <string name="about_comments_like_email">Senden Sie uns eine E-Mail</string>
+    <string name="about_comments_like_market">Spielwert uns auf Google</string>
+    <string name="about_comments_like_facebook">Teilen auf Facebook</string>
+    <string name="about_comments_like_twitter">Teilen auf Twitter</string>
+    <string name="about_mail_subject">Eine gute App</string>
+    <string name="about_mail_body">Sehen Sie diese App, scheint es interessant.</string>
+    <string name="about_facebook_url">http://dimogaru.hol.es/</string>
+    <string name="about_facebook_title">Princess Go!</string>
+    <string name="about_twitter_msg">#PrincessGo! kennen die Android-Anwendung?. </string>
+    <string name="about_problem_mail">DimogDroid@gmail.com</string>
+    <string name="about_problem_subject">Princess Go!.</string>
+    
+    
+
+</resources>

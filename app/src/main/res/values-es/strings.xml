@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Princess Go!</string>
+    <string name="nombre">Introduce el Nombre</string>
+
+    <string-array name="type">
+        <item>New Game</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </string-array>
+    
+    <string-array name="cartas">
+        <item>Frozen</item>
+        <item>Animales</item>
+    </string-array>
+    
+     <string-array name="nivel">
+        <item>Fácil</item>
+        <item>Medio</item>
+        <item>Difícil</item>
+    </string-array>
+
+    <string name="niveljuego">Nivel del Juego</string>
+    <string name="tipocartas">Imágenes de las Cartas</string>
+    <string name="borrarbasedatos">Borrar Datos Locales</string>
+    <string name="eliminarpuntuacion">Eliminar Puntuación</string>
+    <string name="preguntaeliminarfacil">¿Desea eliminar la tabla de puntuaciones del nivel fácil?</string>
+    <string name="preguntaeliminarmedio">¿Desea eliminar la tabla de puntuaciones del nivel medio?</string>
+    <string name="preguntaeliminardificil">¿Desea eliminar la tabla de puntuaciones del nivel difícil?</string>
+    <string name="acercade">Acerca de</string>
+    <string name="nuevapartida">JUGAR !!</string>
+    <string name="puntuacion">PUNTUACION</string>
+    <string name="cofiguracion">AJUSTES</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="facil">Fácil</string>
+    <string name="medio">Medio</string>
+    <string name="dificil">Difícil</string>
+    <string name="nivel">Nivel:</string>
+    <string name="puntuacionglobal">Puntuación Global</string>
+    <string name="puntuacionlocal">Puntuación Local</string>
+    <string name="vermas">Ver más</string>
+    <string name="si">Sí</string>
+    
+    <string name="sindatos">Sin datos.</string>
+    
+    <string name="frozen">Frozen</string>
+    <string name="animales">Animales</string>
+    <string name="bob">Bob</string>
+    
+    
+    <string name="introducenombre">Introduce tu Nombre:</string>
+    <string name="about_comments_like_email">Envíanos un correo</string>
+    <string name="about_comments_like_market">Valóranos en Google Play</string>
+    <string name="about_comments_like_facebook">Comparte por Facebook</string>
+    <string name="about_comments_like_twitter">Comparte en Twitter</string>
+    <string name="about_mail_subject">Una Buena Aplicación</string>
+    <string name="about_mail_body">Mira esta applicación, parece interesante.</string>
+    <string name="about_facebook_url">http://dimogaru.hol.es/</string>
+    <string name="about_facebook_title">Princess Go!</string>
+    <string name="about_twitter_msg">Conoceis la aplicación android #PrincessGo! ?? . </string>
+    <string name="about_problem_mail">DimogDroid@gmail.com</string>
+    <string name="about_problem_subject">Princess Go!.</string>
+    
+    
+
+</resources>
